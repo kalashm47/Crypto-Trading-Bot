@@ -1,4 +1,4 @@
-# Crypto Trading Bot Prototype
+# Crypto Trading Bot 
 
 A professional cryptocurrency trading bot prototype that connects to Binance public API, fetches real-time market data, calculates technical indicators, and generates trading signals based on moving average crossovers.
 
