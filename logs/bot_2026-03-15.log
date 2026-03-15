@@ -1,0 +1,129 @@
+2026-03-15 10:43:26 | INFO     | ==================================================
+2026-03-15 10:43:26 | INFO     | CRYPTO TRADING BOT STARTING
+2026-03-15 10:43:26 | INFO     | Symbol: BTCUSDT
+2026-03-15 10:43:26 | INFO     | Update interval: 60s
+2026-03-15 10:43:26 | INFO     | Strategy: MA(10,30)
+2026-03-15 10:43:26 | INFO     | ==================================================
+2026-03-15 10:43:26 | INFO     | Initialized MA strategy: 10/30
+2026-03-15 10:43:26 | INFO     | Starting price monitoring...
+2026-03-15 10:43:26 | INFO     | Starting main loop (60s interval)
+2026-03-15 10:43:26 | ERROR    | bot.exchange.coinbase_client:get_ticker_price:40 - API request failed: 404 Client Error: Not Found for url: https://api.coinbase.com/prices/BTCUSDT/spot
+2026-03-15 10:43:26 | ERROR    | API request failed: 404 Client Error: Not Found for url: https://api.coinbase.com/prices/BTCUSDT/spot
+2026-03-15 10:43:54 | INFO     | Shutdown signal received...
+2026-03-15 10:44:26 | INFO     | Bot shutdown complete
+2026-03-15 10:44:26 | INFO     | Signals generated: 0
+2026-03-15 10:44:34 | INFO     | ==================================================
+2026-03-15 10:44:34 | INFO     | CRYPTO TRADING BOT STARTING
+2026-03-15 10:44:34 | INFO     | Symbol: BTCUSDT
+2026-03-15 10:44:34 | INFO     | Update interval: 60s
+2026-03-15 10:44:34 | INFO     | Strategy: MA(10,30)
+2026-03-15 10:44:34 | INFO     | ==================================================
+2026-03-15 10:44:34 | INFO     | Initialized MA strategy: 10/30
+2026-03-15 10:44:34 | INFO     | Starting price monitoring...
+2026-03-15 10:44:34 | INFO     | Starting main loop (60s interval)
+2026-03-15 10:44:35 | ERROR    | bot.exchange.coinbase_client:get_ticker_price:40 - API request failed: 400 Client Error: Bad Request for url: https://api.coinbase.com/v2//prices/BTCUSDT/spot
+2026-03-15 10:44:35 | ERROR    | API request failed: 400 Client Error: Bad Request for url: https://api.coinbase.com/v2//prices/BTCUSDT/spot
+2026-03-15 10:44:39 | INFO     | Shutdown signal received...
+2026-03-15 10:45:35 | INFO     | Bot shutdown complete
+2026-03-15 10:45:35 | INFO     | Signals generated: 0
+2026-03-15 10:46:06 | INFO     | ==================================================
+2026-03-15 10:46:06 | INFO     | CRYPTO TRADING BOT STARTING
+2026-03-15 10:46:06 | INFO     | Symbol: BTCUSDT
+2026-03-15 10:46:06 | INFO     | Update interval: 60s
+2026-03-15 10:46:06 | INFO     | Strategy: MA(10,30)
+2026-03-15 10:46:06 | INFO     | ==================================================
+2026-03-15 10:46:06 | INFO     | Initialized MA strategy: 10/30
+2026-03-15 10:46:06 | INFO     | Starting price monitoring...
+2026-03-15 10:46:06 | INFO     | Starting main loop (60s interval)
+2026-03-15 10:46:06 | ERROR    | bot.exchange.coinbase_client:get_ticker_price:40 - API request failed: 400 Client Error: Bad Request for url: https://api.coinbase.com/v2/prices/BTCUSDT/spot
+2026-03-15 10:46:06 | ERROR    | API request failed: 400 Client Error: Bad Request for url: https://api.coinbase.com/v2/prices/BTCUSDT/spot
+2026-03-15 10:46:29 | INFO     | Shutdown signal received...
+2026-03-15 10:47:06 | INFO     | Bot shutdown complete
+2026-03-15 10:47:06 | INFO     | Signals generated: 0
+2026-03-15 10:47:43 | INFO     | ==================================================
+2026-03-15 10:47:43 | INFO     | CRYPTO TRADING BOT STARTING
+2026-03-15 10:47:43 | INFO     | Symbol: BTCUSDT
+2026-03-15 10:47:43 | INFO     | Update interval: 60s
+2026-03-15 10:47:43 | INFO     | Strategy: MA(10,30)
+2026-03-15 10:47:43 | INFO     | ==================================================
+2026-03-15 10:47:43 | INFO     | Initialized MA strategy: 10/30
+2026-03-15 10:47:43 | INFO     | Starting price monitoring...
+2026-03-15 10:47:43 | INFO     | Starting main loop (60s interval)
+2026-03-15 10:47:43 | ERROR    | bot.exchange.coinbase_client:get_ticker_price:40 - API request failed: 401 Client Error: Unauthorized for url: https://api.coinbase.com/api/v3/brokerage/prices/BTCUSDT/spot
+2026-03-15 10:47:43 | ERROR    | API request failed: 401 Client Error: Unauthorized for url: https://api.coinbase.com/api/v3/brokerage/prices/BTCUSDT/spot
+2026-03-15 10:47:49 | INFO     | Shutdown signal received...
+2026-03-15 10:48:43 | INFO     | Bot shutdown complete
+2026-03-15 10:48:43 | INFO     | Signals generated: 0
+2026-03-15 10:48:48 | INFO     | ==================================================
+2026-03-15 10:48:48 | INFO     | CRYPTO TRADING BOT STARTING
+2026-03-15 10:48:48 | INFO     | Symbol: BTCUSDT
+2026-03-15 10:48:48 | INFO     | Update interval: 60s
+2026-03-15 10:48:48 | INFO     | Strategy: MA(10,30)
+2026-03-15 10:48:48 | INFO     | ==================================================
+2026-03-15 10:48:48 | INFO     | Initialized MA strategy: 10/30
+2026-03-15 10:48:48 | INFO     | Starting price monitoring...
+2026-03-15 10:48:48 | INFO     | Starting main loop (60s interval)
+2026-03-15 10:48:49 | ERROR    | bot.exchange.coinbase_client:get_ticker_price:40 - API request failed: 401 Client Error: Unauthorized for url: https://api.coinbase.com/api/v3/brokerage/prices/BTCUSDT/spot
+2026-03-15 10:48:49 | ERROR    | API request failed: 401 Client Error: Unauthorized for url: https://api.coinbase.com/api/v3/brokerage/prices/BTCUSDT/spot
+2026-03-15 10:48:56 | INFO     | Shutdown signal received...
+2026-03-15 10:49:49 | INFO     | Bot shutdown complete
+2026-03-15 10:49:49 | INFO     | Signals generated: 0
+2026-03-15 10:55:02 | INFO     | ==================================================
+2026-03-15 10:55:02 | INFO     | CRYPTO TRADING BOT STARTING
+2026-03-15 10:55:02 | INFO     | Symbol: BTCUSDT
+2026-03-15 10:55:02 | INFO     | Update interval: 60s
+2026-03-15 10:55:02 | INFO     | Strategy: MA(10,30)
+2026-03-15 10:55:02 | INFO     | ==================================================
+2026-03-15 10:55:02 | INFO     | Initialized MA strategy: 10/30
+2026-03-15 10:55:02 | INFO     | Starting price monitoring...
+2026-03-15 10:55:02 | INFO     | Starting main loop (60s interval)
+2026-03-15 10:55:03 | ERROR    | bot.exchange.coinbase_client:get_ticker_price:40 - API request failed: 400 Client Error: Bad Request for url: https://api.coinbase.com/api/v2/prices/BTCUSDT/spot
+2026-03-15 10:55:03 | ERROR    | API request failed: 400 Client Error: Bad Request for url: https://api.coinbase.com/api/v2/prices/BTCUSDT/spot
+2026-03-15 10:55:34 | INFO     | Shutdown signal received...
+2026-03-15 10:56:03 | INFO     | Bot shutdown complete
+2026-03-15 10:56:03 | INFO     | Signals generated: 0
+2026-03-15 10:57:19 | INFO     | ==================================================
+2026-03-15 10:57:19 | INFO     | CRYPTO TRADING BOT STARTING
+2026-03-15 10:57:19 | INFO     | Symbol: BTC-USD
+2026-03-15 10:57:19 | INFO     | Update interval: 60s
+2026-03-15 10:57:19 | INFO     | Strategy: MA(10,30)
+2026-03-15 10:57:19 | INFO     | ==================================================
+2026-03-15 10:57:19 | INFO     | Initialized MA strategy: 10/30
+2026-03-15 10:57:19 | INFO     | Starting price monitoring...
+2026-03-15 10:57:19 | INFO     | Starting main loop (60s interval)
+2026-03-15 10:57:20 | INFO     | BTC-USD price: $71,519.54
+2026-03-15 10:58:21 | INFO     | BTC-USD price: $71,544.01
+2026-03-15 10:59:21 | INFO     | BTC-USD price: $71,553.45
+2026-03-15 11:00:22 | INFO     | BTC-USD price: $71,607.16
+2026-03-15 11:01:22 | INFO     | BTC-USD price: $71,570.05
+2026-03-15 11:01:51 | INFO     | Shutdown signal received...
+2026-03-15 11:02:22 | INFO     | Bot shutdown complete
+2026-03-15 11:02:22 | INFO     | Signals generated: 0
+2026-03-15 16:27:45 | INFO     | ==================================================
+2026-03-15 16:27:45 | INFO     | CRYPTO TRADING BOT STARTING
+2026-03-15 16:27:45 | INFO     | Symbol: BTC-USD
+2026-03-15 16:27:45 | INFO     | Update interval: 60s
+2026-03-15 16:27:45 | INFO     | Strategy: MA(10,30)
+2026-03-15 16:27:45 | INFO     | ==================================================
+2026-03-15 16:27:45 | INFO     | Initialized MA strategy: 10/30
+2026-03-15 16:27:45 | INFO     | Starting price monitoring...
+2026-03-15 16:27:45 | INFO     | Starting main loop (60s interval)
+2026-03-15 16:27:46 | INFO     | BTC-USD price: $71,528.57
+2026-03-15 16:27:51 | INFO     | Shutdown signal received...
+2026-03-15 16:28:46 | INFO     | Bot shutdown complete
+2026-03-15 16:28:46 | INFO     | Signals generated: 0
+2026-03-15 16:28:53 | INFO     | ==================================================
+2026-03-15 16:28:53 | INFO     | CRYPTO TRADING BOT STARTING
+2026-03-15 16:28:53 | INFO     | Symbol: BTC-USD
+2026-03-15 16:28:53 | INFO     | Update interval: 60s
+2026-03-15 16:28:53 | INFO     | Strategy: MA(10,30)
+2026-03-15 16:28:53 | INFO     | ==================================================
+2026-03-15 16:28:53 | INFO     | Initialized MA strategy: 10/30
+2026-03-15 16:28:53 | INFO     | Starting price monitoring...
+2026-03-15 16:28:53 | INFO     | Starting main loop (60s interval)
+2026-03-15 16:28:54 | INFO     | BTC-USD price: $71,555.24
+2026-03-15 16:29:54 | INFO     | BTC-USD price: $71,529.85
+2026-03-15 16:30:55 | INFO     | BTC-USD price: $71,536.04
+2026-03-15 16:31:55 | INFO     | BTC-USD price: $71,526.99
+2026-03-15 16:32:56 | INFO     | BTC-USD price: $71,522.59
+2026-03-15 16:33:56 | INFO     | BTC-USD price: $71,548.32
